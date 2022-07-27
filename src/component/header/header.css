@@ -1,4 +1,8 @@
-/* .header{
-   background-color: black;
-   border-radius: 3px;
-} */
+.header{
+   background-color: rgb(153, 102, 153);
+   
+}
+.logo{
+   margin-left: 10px;
+   background-color: antiquewhite;
+}
